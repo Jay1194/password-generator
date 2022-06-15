@@ -1,4 +1,4 @@
-# password-generator
+# PASSWORD-GENERATOR
 
 # Description
 This application is for an employee so they can generate a random 
